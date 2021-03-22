@@ -57,7 +57,7 @@ weight = 6
 
 [params]
 blogPageURL = "blog"
-contactLink = "contact"
+contactLink = "contact/"
 copyright = "Tutti i diritti riservati © Daniel Ingenito 2021"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/meqpnbby"
