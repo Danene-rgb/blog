@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-paginate = 6
+paginate = 30
 theme = "portio"
 title = "Daniel Ingenito - Visual Designer"
 # Main Menu
