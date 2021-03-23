@@ -1,8 +1,8 @@
 ---
 enable: true
-topTitle: Portfolio
+topTitle: Portfolio - sezione in aggiornamento
 title: >
   ## Alcuni dei miei lavori
 
-buttonName: Altri lavori
-buttonURL: portfolio
+#buttonName: Altri lavori
+#buttonURL: portfolio

@@ -1,7 +1,7 @@
 ---
 title: Teknoverde
 date: 2020-10-12T12:13:40+00:00
-thumbnail: images/portfolio/realizzazione-teknoverde-logo.png
+thumbnail: images/portfolio/realizzazione-teknoverde-logo.png 
 Service: Branding, web Design
 client: Teknoverde
 shortDescription: Restyling del Logo Teknoverde e nuovo sito web
