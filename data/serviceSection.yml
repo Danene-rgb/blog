@@ -4,20 +4,18 @@ topTitle: Servizi
 title: >
   ## Cosa faccio
 
-  Era questa la sezione che cercavi, giusto?
+  Con il mio lavoro racconto le storie dei miei clienti, nel canale più adatto per loro.
 service:
   - content: >
       #### Web Design
 
-      Progetto e realizzo siti web: pixel-perfect, mobile-first, responsive e tutte quelle cose li. La tua azienda merita un bel sito e io sono qui per questo.
-
-
+      Progetto e realizzo siti web portfolio, siti ecommerce o istituzionali. La tua azienda merita un bel sito e io sono qui per questo.
 
     image: images/service/ui-ux.svg
   - content: >
-      #### Branding 
+      #### Brand Design 
 
-      Dalla prima bozza logo fino al colore delle porte del tuo locale. Creare un brand è complesso, ma vedrai che ne varrà la pena, promesso. 
+      Svilupperemo il tuo nuovo brand e lo seguirò dalla prima bozza fino a tutte le sue applicazioni. È un processo lungo, ma vedrai che ne varrà la pena. 
 
     image: images/service/web.svg
   - content: >
