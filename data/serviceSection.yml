@@ -3,8 +3,8 @@ enable: true
 topTitle: Servizi
 title: >
   ## Cosa faccio
-
-  Con il mio lavoro racconto le storie dei miei clienti, nel canale più adatto per loro.
+  
+  Racconto le storie dei miei clienti e le rendo memorabili.
 service:
   - content: >
       #### Web Design
@@ -15,7 +15,7 @@ service:
   - content: >
       #### Brand Design 
 
-      Svilupperemo il tuo nuovo brand e lo seguirò dalla prima bozza fino a tutte le sue applicazioni. È un processo lungo, ma vedrai che ne varrà la pena. 
+      Forme, colori, personalità, valori: il brand non è un semplice logo. Creerò il brand della tua azienda curandolo in ogni suo aspetto.
 
     image: images/service/web.svg
   - content: >
